@@ -79,3 +79,44 @@ git remote add main  https://github.com/reddypurush/testing-keys.git
 ssh-add ~/.ssh/id_ed25519
 clear 
 ls
+ls 
+clear
+git status 
+clear 
+ls
+ssh-keygen -t rsa
+cd /.ssh/
+cd /.ssh
+cd /
+cd .ssh
+cd /root/.ssh/
+ls
+cat id_rsa.pub
+ssh -T git@github.com
+clear
+cd 
+ls
+git status 
+git add 
+clear 
+git staus 
+git status
+git commit -m "commit1"
+git staus 
+git add .
+git status 
+git commit -m "firstcommit"
+clear 
+git status 
+git branch 
+git branch -a
+git checkout -b master
+git branch -a
+git status 
+git status main
+git status master
+clear 
+git barch 
+git baranch
+clear 
+git 
